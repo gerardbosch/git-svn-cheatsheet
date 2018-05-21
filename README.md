@@ -55,7 +55,7 @@ Now you can commit the updates to the SVN repository:
 
 # Using git svn
 
-You can use git as a Subversion client and that will let you to work locally using most of the git features and commit changes to svn repository once ready. In order to do that you must learn some few commands.
+You can use git as a Subversion client and that will let you to work locally using most of the git features and commit changes to svn repository once ready. In order to do that you must learn a few commands.
 
 The following guide and git documentation provides further details:
 
