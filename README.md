@@ -3,8 +3,8 @@
     Date: 20/20/2018
 -->
 
-# Introduction
-This document describes how to set up a Subversion repository to work locally using Git and to use Git as a Subversion
+# Git SVN Cheatsheet
+This document describes how to set up a Subversion repository to work locally using Git, and how to use Git as a Subversion
 client. This will allow you to work locally in a more Git workflow and publish the changes to Subversion making it
 transparent.
 
