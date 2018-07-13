@@ -102,3 +102,9 @@ Then perform the "push" to SVN:
 `git svn dcommit`
 
 As reported in the avobe links, the most important is to keep history lienar.
+
+## Extra
+
+Some more tips:
+
+- [Using Git with Subversion: Tips that will make your life easier](http://durdn.com/blog/2011/07/06/using-git-with-subversion-tips-that-will-make-your-life-easier/)
